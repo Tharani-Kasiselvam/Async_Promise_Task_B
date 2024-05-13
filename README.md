@@ -1,11 +1,11 @@
 # Promise-API TASK2
 
 ***Purpose of the Project:***   
-By accessing the *AmiiboAPI*, we have to display the Amiibo series and the Characters along with image using HTML,CSS,Bootstrap,Javascript
+By accessing the *Data USA API*, we have to display the US Data Population from 2013 to 2021 using HTML,CSS,Bootstrap,Javascript
 
 ***Design:***   
 - Data fetched from API   
-- CSS styles with Class selector   
+- CSS styles are descigned with Class selector   
 - Bootstrap Card to display the contents  
 
 ***Accompolished with:***
