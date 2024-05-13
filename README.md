@@ -4,7 +4,7 @@
 By accessing the *Data USA API*, we have to display the US Data Population from 2013 to 2021 using HTML,CSS,Bootstrap,Javascript
 
 ***Design:***   
-- Data fetched from API   
+- Data fetched from API (https://datausa.io/api/data?drilldowns=Nation&measures=Population)   
 - CSS styles are descigned with Class selector   
 - Bootstrap Card to display the contents  
 
