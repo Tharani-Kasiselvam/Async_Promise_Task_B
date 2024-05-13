@@ -16,8 +16,6 @@ async function apiCall(){
         (function iterate_item(){
             
             for(let i=0;i<usa_data.length;i++){
-               
-                console.log("inside for")
                 data.push (`<li class="list-group-item"><center>Year:<b> ${usa_data[i].Year}</b><br>
                 Population: ${usa_data[i].Population}</center></li>`)
             }
