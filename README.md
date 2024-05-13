@@ -5,11 +5,11 @@ By accessing the *Data USA API*, we have to display the US Data Population from 
 
 ***Design:***   
 - Data fetched from API (https://datausa.io/api/data?drilldowns=Nation&measures=Population)   
-- CSS styles are descigned with Class selector   
+- CSS styles are designed with Class selector   
 - Bootstrap Card to display the contents  
 
 ***Accompolished with:***
-- Used **fetch() API** to get the data from AmiiboAPI   
+- Used **fetch() API** to get the data from Data USA API   
 - Used try/catch for error handling while fetching data from API
 - Used **async & await** to retreive the Promise Data 
 - Used Bootstrap cards to display the necessary data on the screen   
